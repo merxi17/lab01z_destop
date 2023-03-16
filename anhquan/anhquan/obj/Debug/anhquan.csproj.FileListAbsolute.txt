@@ -1,0 +1,25 @@
+C:\Users\CICT\source\repos\anhquan\anhquan\bin\Debug\anhquan.exe.config
+C:\Users\CICT\source\repos\anhquan\anhquan\bin\Debug\anhquan.exe
+C:\Users\CICT\source\repos\anhquan\anhquan\bin\Debug\anhquan.pdb
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.csprojAssemblyReference.cache
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.frmBai1.resources
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.frmChinh.resources
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.Properties.Resources.resources
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.csproj.GenerateResource.cache
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.exe
+C:\Users\CICT\source\repos\anhquan\anhquan\obj\Debug\anhquan.pdb
+C:\Users\new user\Downloads\anhquan\anhquan\bin\Debug\anhquan.exe.config
+C:\Users\new user\Downloads\anhquan\anhquan\bin\Debug\anhquan.exe
+C:\Users\new user\Downloads\anhquan\anhquan\bin\Debug\anhquan.pdb
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.csproj.AssemblyReference.cache
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.frmBai1.resources
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.frmBai2.resources
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.frmChinh.resources
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.Properties.Resources.resources
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.csproj.GenerateResource.cache
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.csproj.CoreCompileInputs.cache
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.exe
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.pdb
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.frmBai3.resources
+C:\Users\new user\Downloads\anhquan\anhquan\obj\Debug\anhquan.frmbai4.resources
